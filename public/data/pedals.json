@@ -6209,6 +6209,13 @@
         "Image":"mojohand-superlative.png"
     },
     {
+        "Brand":"Monsterpiece",
+        "Name":"Scratchy Snatch",
+        "Width":2.6,
+        "Height":4.8,
+        "Image":"monsterpiece-scratchysnatch.png"
+    },
+    {
         "Brand":"Montreal Assembly",
         "Name":"Count to Five",
         "Width":2.48,
